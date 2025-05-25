@@ -1,2 +1,1 @@
-# fax-brute-force-for-ENA-Dream-BBQ
-it types out every 7 digit number and stops when someone answers
+# DO NOT RUN THIS CODE IF YOU DOT HAVE A WAY TO STOP IT
